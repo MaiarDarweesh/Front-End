@@ -8,5 +8,4 @@ export class Usuario{
     public foto: string
     public tipo: string
     public postagem: Postagem[];
-
 }
